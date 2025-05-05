@@ -1,4 +1,9 @@
-streamlit 
-matplotlib.pyplot
-seaborn 
+streamlit
+biopython
 pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+requests
+streamlit-extras
