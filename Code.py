@@ -425,7 +425,7 @@ def show_about_page():
    
     - **Email**: [3522411028@despu.edu.in](mailto:3522411028@despu.edu.in)
     - **LinkedIn**: [Sakshi Kale's Profile](https://www.linkedin.com/in/sakshi-kale-273b70320/)
-    - **GitHub**: Source code will be available soon
+    - **GitHub**: [Source code](https://github.com/KaleSakshi-hub/BioNexus/blob/main/Code.py)
    
     Your input helps us enhance the tools and add new features to better serve the research community.
     """)
