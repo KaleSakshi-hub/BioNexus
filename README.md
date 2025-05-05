@@ -1,2 +1,3 @@
 # BioNexus
-Web server
+BioNexus is a comprehensive web-based bioinformatics platform designed to streamline molecular biology analyses. This professional-grade toolkit offers essential utilities for protein sequence characterization, open reading frame (ORF) identification, and oligonucleotide melting temperature calculations. The application features direct integration with NCBI databases for protein similarity searches and includes enhanced visualization capabilities for research documentation. Built with a focus on accessibility, BioNexus eliminates complex software dependencies through its browser-based interface while maintaining rigorous scientific accuracy using Biopython's computational backend.
+link to the webserver: https://bionexus.streamlit.app/
